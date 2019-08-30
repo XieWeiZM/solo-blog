@@ -10,7 +10,7 @@ XieWei博客
 
 ### 最新
 
-* [世界，你好！](http://www.xiewei.club/hello-solo)
+* [guava布隆过滤器解决缓存穿透](http://www.xiewei.club/articles/2019/08/30/1567136403653.html)
 
 
 
